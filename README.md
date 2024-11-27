@@ -1,5 +1,4 @@
-﻿# School_Attendence_Management
-# School Attendence_Management
+
 <h1 align="center">
     School Attendence MANAGEMENT SYSTEM
 </h1>
